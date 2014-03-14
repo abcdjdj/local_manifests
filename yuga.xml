@@ -17,7 +17,7 @@
 
 
   <!--Device specific stuff for Yuga-->
-  <project path="device/sony/yuga" name="CyanogenMod/android_device_sony_yuga" remote="github" revision="cm-11.0" />
+  <project path="device/sony/yuga" name="abcdjdj/android_device_sony_yuga" remote="github" revision="carbon-4.4" />
   <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="github" revision="cm-11.0" />
   <project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" remote="github" revision="cm-11.0" />
   <project path="device/sony/fusion3-common" name="CyanogenMod/android_device_sony_fusion3-common" remote="github" revision="cm-11.0" />
