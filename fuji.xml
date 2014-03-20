@@ -20,7 +20,7 @@
 
 
   <!--Add back the removed repos-->
-  <project path="bootable/recovery" name="android_bootable_recovery" remote="opensemc" revision="twrp2.7-kk" />	
+  <project path="bootable/recovery" name="omnirom/android_bootable_recovery" remote="github" revision="android-4.4" />	
   <project path="frameworks/native" name="abcdjdj/android_frameworks_native" groups="pdk" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="opensemc" revision="cm-11.0" groups="qcom" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="opensemc" revision="cm-11.0" groups="qcom" />   
