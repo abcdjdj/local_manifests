@@ -5,6 +5,9 @@
 
    <remote name="github"
            fetch="https://github.com" />
+
+
+        <project path="packages/apps/Apollo" name="omnirom/android_packages_apps_Apollo" remote="github" revision="android-4.4" />
 		   
 		   
 		   
