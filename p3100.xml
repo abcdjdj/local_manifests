@@ -7,6 +7,9 @@
            fetch="https://github.com" />
 
 
+	<remove-project name="platform/hardware/ti/omap4xxx" />
+	<project path="hardware/ti/omap4xxx" name="abcdjdj/android_hardware_ti_omap4xxx" remote="github" revision="carbon-4.4" />
+
         <project path="packages/apps/Apollo" name="omnirom/android_packages_apps_Apollo" remote="github" revision="android-4.4" />
 		   
 		   
