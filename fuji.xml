@@ -15,7 +15,7 @@
   <remove-project name="CarbonDev/android_frameworks_native" />	
   <remove-project name="CyanogenMod/android_hardware_qcom_media" />
   <remove-project name="CyanogenMod/android_hardware_qcom_gps" />
-  <remove-project name="CarbonDev/android_bionic" />
+
 
 
   <!--Add back the removed repos-->
@@ -23,7 +23,7 @@
   <project path="frameworks/native" name="abcdjdj/android_frameworks_native" groups="pdk" />
   <project path="hardware/qcom/gps" name="abcdjdj/android_hardware_qcom_gps" remote="github" revision="cm-11.0" groups="qcom" />   
   <project path="hardware/qcom/media" name="deedwar/android_hardware_qcom_media" remote="github" revision="cm-11.0" groups="qcom" />
-  <project path="bionic" name="abcdjdj/android_bionic" groups="pdk" />
+
 
 
   <project path="packages/apps/Apollo" name="omnirom/android_packages_apps_Apollo" remote="github" revision="android-4.4" />
