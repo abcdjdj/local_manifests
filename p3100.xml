@@ -11,7 +11,7 @@
 	<project path="hardware/ti/omap4xxx" name="abcdjdj/android_hardware_ti_omap4xxx" remote="github" revision="carbon-4.4" />
 
         <project path="packages/apps/Apollo" name="omnirom/android_packages_apps_Apollo" remote="github" revision="android-4.4" />
-		   
+	<project path="prebuilts/gcc/linux-x86/arm/LINARO-master" name="Cl3Kener/LINARO" remote="github" revision="master" />	   
 		   
 		   
 	<!--Device specific stuff-->
