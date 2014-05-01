@@ -4,7 +4,7 @@
   <!--Local manifest for Carbon Rom for Xperia S, Acro S, Ion (Fuji board)-->
 
    <remote name="github"
-           fetch="https://github.com" />
+           fetch="git://github.com/" />
 
    <remote name="opensemc"
            fetch="git://github.com/OpenSEMC/" />
