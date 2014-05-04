@@ -4,7 +4,7 @@
   <!--Local manifest for Carbon Rom for Galxy Tab 2 P3100 (GSM)-->
 
    <remote name="github"
-           fetch="https://github.com" />
+           fetch="git://github.com" />
 
 
 	<remove-project name="platform/hardware/ti/omap4xxx" />
