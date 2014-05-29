@@ -27,8 +27,6 @@
 
 
   <project path="packages/apps/Apollo" name="omnirom/android_packages_apps_Apollo" remote="github" revision="android-4.4" />
-  <project path="prebuilts/gcc/linux-x86/arm/LINARO-master" name="UBERUTILS/LINARO" remote="github" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/LINARO-KERNEL" name="UBERUTILS/LINARO-KERNEL" remote="github" revision="master" />
   <project path="patches" name="abcdjdj/patches_scripts" remote="github" revision="carbon-fuji" />
 
   <!--Device specific stuff-->
