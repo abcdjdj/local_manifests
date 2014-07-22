@@ -33,10 +33,10 @@
   <project path="device/sony/nozomi" name="abcdjdj/android_device_sony_nozomi" remote="github" revision="carbon-4.4" />
   <project path="device/sony/hikari" name="abcdjdj/android_device_sony_hikari" remote="github" revision="carbon-4.4" />
   <project path="device/sony/aoba" name="abcdjdj/android_device_sony_aoba" remote="github" revision="carbon-4.4" />
-  <project path="device/sony/fuji-common" name="abcdjdj/android_device_sony_fuji-common" remote="github" revision="carbon-4.4" />
+  <project path="device/sony/fuji-common" name="abcdjdj/android_device_sony_fuji-common" remote="github" revision="aospa-4.4" />
   <project path="vendor/broadcom/wlan" name="vendor_broadcom_wlan" remote="opensemc" revision="cm-11.0" />
-  <project path="vendor/sony" name="proprietary_vendor_sony" remote="opensemc" revision="cm-11.0" />
-  <project path="kernel/sony/msm8x60" name="deedwar/evolve" remote="github" revision="evolve-2.5" />
+  <project path="vendor/sony" name="deedwar/proprietary_vendor_sony" remote="github" revision="kitkat" />
+  <project path="kernel/sony/msm8x60" name="deedwar/evolve" remote="github" revision="evolve-1.19" />
   
   
 </manifest>
